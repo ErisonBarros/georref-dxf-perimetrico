@@ -30,7 +30,7 @@ Esta Skill foi desenvolvida para identificar automaticamente o perímetro do im�
 ## Casos de Uso
 
 * Regularização Fundiária (REURB)
-* Georreferenciamento de Imóveis Rurais
+* Georreferenciamento de Imóveis Urbanos
 * Cadastro Técnico Multifinalitário
 * Atualização Cartográfica
 * Projetos de Engenharia e Infraestrutura
